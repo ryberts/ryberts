@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Platforms & Tools:</h2>
 
-- <b><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://imgur.com/a/A9JFy7X" />
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" /></b>
+
+- <b><img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" /></b>
   
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
