@@ -1,7 +1,11 @@
 <h1>Hi, I'm Ryan! <br/><a href="https://github.com/ryberts">IT Professional</a>, <a href="https://www.linkedin.com/in/ryberts/">Network & Security Operations Specialist</a></h1>
 
-<h2>👨‍💻 Languages and Tools:</h2>
+<h2>👨‍💻 Languages and Tools:</h2><html>
+
 put logos here
+  
+<img src="https://imgur.com/a/A9JFy7X" alt="aws pic" width="500" height="600">
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
