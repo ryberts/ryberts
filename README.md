@@ -3,7 +3,7 @@
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    IT professional with over a decade of experience supporting enterprise and government IT environments. Currently,  <br> I serve as a SENIOR INFRA EXECUTIVE NETWORK (equivalent to NOC/ first-level SOC Specialist at NCS Group Singapore, <br> where I lead a team of five engineers in a 24/7 operations centre. <br>My expertise covers end-to-end infrastructure monitoring—including servers, network devices, and critical systems—along with first-level threat detection and management of various observability platforms like Spectrum, SolarWinds and AWS CloudWatch, Splunk. <br> I specialize in ensuring system reliability and availability, mitigating risks, and optimizing incident response workflows.
+    IT professional with over a decade of experience supporting enterprise and government IT environments. Currently,  <br> I serve as a SENIOR INFRA EXECUTIVE NETWORK <br>(equivalent to NOC/ first-level SOC Specialist at NCS Group Singapore, where I lead a team of five engineers in a 24/7 operations centre. <br>My expertise covers end-to-end infrastructure monitoring—including servers, network devices, and critical systems—along with first-level threat detection and management of various observability platforms like Spectrum, SolarWinds and AWS CloudWatch, Splunk. <br> I specialize in ensuring system reliability and availability, mitigating risks, and optimizing incident response workflows.
 <br>
 <br>
 <div align="center">
