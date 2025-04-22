@@ -23,17 +23,15 @@
 <!-- https://devicon.dev/ -->
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 <div align="center">
-   <a href="https://www.redhat.com" target="_blank" rel="noreferrer">
-      <img  alt="Ansible" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
+     <img  alt="Splunk" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" />
+    <a href="https://www.adobe.com/" target="_blank" rel="noreferrer">
+   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+      <img  alt="AWS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
       <img  alt="Bash" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-         <a href="https://www.linkedin.com/in/ryberts/" target="_blank" rel="noreferrer">
-      <img  alt="LinkedIn" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
       <img  alt="Linux" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-     <a href="https://www.adobe.com/" target="_blank" rel="noreferrer">
-      <img  alt="Photoshop" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-        <a href="https://aws.amazon.com/](https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
+ <a href="https://aws.amazon.com/](https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
       <img  alt="Powershell" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
       <img  alt="Ubuntu" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
@@ -46,12 +44,14 @@
       <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
       <img  alt="Wordpress" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
   <a href="https://www.splunk.com/" target="_blank" rel="noreferrer">
-      <img  alt="Splunk" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" />
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-      <img  alt="AWS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-       
+    
+<img  alt="Photoshop" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+   <a href="https://www.redhat.com" target="_blank" rel="noreferrer">
+      <img  alt="Ansible" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
       <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
+        <a href="https://www.linkedin.com/in/ryberts/" target="_blank" rel="noreferrer">
+      <img  alt="LinkedIn" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
 </div>
 <br>
