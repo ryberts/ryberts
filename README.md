@@ -59,7 +59,7 @@
 
 <!-- Latest YouTube Videos -->
 
-<h2 style="color: #44AEFB">🎦 Latest YouTube Videos</h2>
+<h2 style="color: #44AEFB">🎦 YouTube Project Videos</h2>
 <br />
 
 <!-- Resource/Reference: https://github.com/DenverCoder1/github-readme-youtube-cards -->
