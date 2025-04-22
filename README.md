@@ -66,7 +66,7 @@
 <div class="youtube videos cards" align="center">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![ASMR Programming - Study With Me - Coding Snake Game in Python Pygame - No Talking](https://ytcards.demolab.com/?id=Fd7PpBRQhNY&title=ASMR+Programming+-+Study+With+Me+-+Coding+Snake+Game+in+Python+Pygame+-+No+Talking&lang=en&timestamp=1682531289&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ASMR Programming - Study With Me - Coding Snake Game in Python Pygame - No Talking")](https://www.youtube.com/watch?v=Fd7PpBRQhNY)
+[![Project: Elastic ELK + Win + Ubuntu + Sysmon Set Up](https://ytcards.demolab.com/?id=Fd7PpBRQhNY&title=ASMR+Programming+-+Study+With+Me+-+Coding+Snake+Game+in+Python+Pygame+-+No+Talking&lang=en&timestamp=1682531289&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ASMR Programming - Study With Me - Coding Snake Game in Python Pygame - No Talking")](https://www.youtube.com/watch?v=iXPxCmCVFFY)
 [![The Fundamentals of Web Development - REST APIs, HTTP Requests, Databases, Frontend, and Backend](https://ytcards.demolab.com/?id=rs5Z3uc0RMU&title=The+Fundamentals+of+Web+Development+-+REST+APIs%2C+HTTP+Requests%2C+Databases%2C+Frontend%2C+and+Backend&lang=en&timestamp=1679757592&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The Fundamentals of Web Development - REST APIs, HTTP Requests, Databases, Frontend, and Backend")](https://www.youtube.com/watch?v=rs5Z3uc0RMU)
 
 <!-- END YOUTUBE-CARDS -->
