@@ -1,4 +1,6 @@
-name: youtube videos cards
+<!-- BEGIN YOUTUBE-CARDS -->
+
+name: GitHub Readme YouTube Cards
 on:
   schedule:
     # Runs every hour, on the hour
@@ -16,3 +18,5 @@ jobs:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCiLaARObGMPJCu9EvWZrlQw
+          
+<!-- END YOUTUBE-CARDS -->
