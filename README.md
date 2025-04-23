@@ -63,7 +63,7 @@
 <br />
 
 <!-- Resource/Reference: https://github.com/DenverCoder1/github-readme-youtube-cards -->
-<div class="youtube videos cards" align="center">
+<div class="GitHub Readme YouTube Cards" align="center">
 
 <!-- BEGIN YOUTUBE-CARDS 
 [![Project: Elastic ELK + Win + Ubuntu + Sysmon Set Up](https://ytcards.demolab.com/?id=Fd7PpBRQhNY&title=ASMR+Programming+-+Study+With+Me+-+Coding+Snake+Game+in+Python+Pygame+-+No+Talking&lang=en&timestamp=1682531289&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ASMR Programming - Study With Me - Coding Snake Game in Python Pygame - No Talking")](https://www.youtube.com/watch?v=iXPxCmCVFFY)
