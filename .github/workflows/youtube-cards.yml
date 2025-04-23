@@ -1,6 +1,3 @@
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
-
 name: GitHub Readme YouTube Cards
 on:
   schedule:
