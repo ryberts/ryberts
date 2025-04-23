@@ -65,7 +65,7 @@
 <!-- Resource/Reference: https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <div class="youtube videos cards" align="center">
 
-<!-- BEGIN YOUTUBE-CARDS -->
+<!-- BEGIN YOUTUBE-CARDS 
 [![Project: Elastic ELK + Win + Ubuntu + Sysmon Set Up](https://ytcards.demolab.com/?id=Fd7PpBRQhNY&title=ASMR+Programming+-+Study+With+Me+-+Coding+Snake+Game+in+Python+Pygame+-+No+Talking&lang=en&timestamp=1682531289&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ASMR Programming - Study With Me - Coding Snake Game in Python Pygame - No Talking")](https://www.youtube.com/watch?v=iXPxCmCVFFY)
 [![The Fundamentals of Web Development - REST APIs, HTTP Requests, Databases, Frontend, and Backend](https://ytcards.demolab.com/?id=rs5Z3uc0RMU&title=The+Fundamentals+of+Web+Development+-+REST+APIs%2C+HTTP+Requests%2C+Databases%2C+Frontend%2C+and+Backend&lang=en&timestamp=1679757592&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The Fundamentals of Web Development - REST APIs, HTTP Requests, Databases, Frontend, and Backend")](https://www.youtube.com/watch?v=rs5Z3uc0RMU)
 
@@ -75,10 +75,10 @@
 <!-- Begin Youtube Buttons -->
 <!-- Resource/Reference:  https://github.com/DenverCoder1/custom-icon-badges -->
 <div class="youtube buttons" align="center">
-    <a href="https://www.youtube.com/@cysecjourney"  target="_blank">
+    <a href="https://www.youtube.com/@rybertsprojects"  target="_blank">
         <img alt="youtube subscribers" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCq1qtlU3urNPLd5yIwhht1w?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
     </a> 
-    <a href="https://www.youtube.com/@cysecjourney"  target="_blank">
+    <a href="https://www.youtube.com/@rybertsprojects"  target="_blank">
         <img alt="youtube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCq1qtlU3urNPLd5yIwhht1w?color=%23E05D44&logo=eye&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
     </a> 
 </div>
