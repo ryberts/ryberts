@@ -62,11 +62,11 @@
 <br />
 
  <a href="https://youtu.be/iXPxCmCVFFY" target="_blank" rel="noreferrer">
-      <img  alt="1st Video" height="225px" style="padding-right:50px;" src="https://img.youtube.com/vi/iXPxCmCVFFY/hqdefault.jpg" />
+      <img  alt="1st Video" height="200px" style="padding-right:50px;" src="https://img.youtube.com/vi/iXPxCmCVFFY/hqdefault.jpg" />
  <a href="https://youtu.be/3lebjhl5vjA" target="_blank" rel="noreferrer">
-      <img  alt="2nd Video" height="225px" style="padding-right:50px;" src="https://img.youtube.com/vi/3lebjhl5vjA/hqdefault.jpg" />
+      <img  alt="2nd Video" height="200px" style="padding-right:50px;" src="https://img.youtube.com/vi/3lebjhl5vjA/hqdefault.jpg" />
  <a href="https://youtu.be/aoLLTXHGktc" target="_blank" rel="noreferrer">
-      <img  alt="3rdd Video" height="225px" style="padding-right:50px;" src="https://img.youtube.com/vi/aoLLTXHGktc/hqdefault.jpg" />
+      <img  alt="3rdd Video" height="200px" style="padding-right:50px;" src="https://img.youtube.com/vi/aoLLTXHGktc/hqdefault.jpg" />
 
 <!-- Statistics -->
 
