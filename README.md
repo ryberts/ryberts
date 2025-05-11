@@ -39,8 +39,8 @@
       <img  alt="VSCode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
       <a href="https://www.microsoft.com/en-us/software-download/windows11" target="_blank" rel="noreferrer">
       <img  alt="Win11" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" />
-       <a href="https://woocommerce.com/" target="_blank" rel="noreferrer">
-      <img  alt="Woo" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/woocommerce/woocommerce-original.svg" />
+       <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+      <img  alt="pyth" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
       <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
       <img  alt="Wordpress" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
   <a href="https://www.adobe.com/sg/products/photoshop.html" target="_blank" rel="noreferrer">  
@@ -62,12 +62,13 @@
 <br />
 
  <a href="https://youtu.be/iXPxCmCVFFY" target="_blank" rel="noreferrer">
-      <img  alt="1st Video" height="200px" style="padding-right:50px;" src="https://img.youtube.com/vi/iXPxCmCVFFY/hqdefault.jpg" />
+      <img  alt="1st Video" height="180px" style="padding-right:50px;" src="https://img.youtube.com/vi/iXPxCmCVFFY/hqdefault.jpg" />
  <a href="https://youtu.be/3lebjhl5vjA" target="_blank" rel="noreferrer">
-      <img  alt="2nd Video" height="200px" style="padding-right:50px;" src="https://img.youtube.com/vi/3lebjhl5vjA/hqdefault.jpg" />
+      <img  alt="2nd Video" height="180px" style="padding-right:50px;" src="https://img.youtube.com/vi/3lebjhl5vjA/hqdefault.jpg" />
  <a href="https://youtu.be/aoLLTXHGktc" target="_blank" rel="noreferrer">
-      <img  alt="3rdd Video" height="200px" style="padding-right:50px;" src="https://img.youtube.com/vi/aoLLTXHGktc/hqdefault.jpg" />
-
+      <img  alt="3rd Video" height="180px" style="padding-right:50px;" src="https://img.youtube.com/vi/aoLLTXHGktc/hqdefault.jpg" />
+ <a href="https://youtu.be/6djMj00h0n4" target="_blank" rel="noreferrer">
+      <img  alt="4th Video" height="180px" style="padding-right:50px;" src="https://img.youtube.com/vi/6djMj00h0n4/hqdefault.jpg" />
 <!-- Statistics -->
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
