@@ -19,6 +19,15 @@
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
 </div>
 <br> 
+<!-- Icons Resources -->
+<!-- https://devicon.dev/ -->
+<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
+<div align="center">
+     <img  alt="Splunk" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" />
+    <a href="https://www.splunk.com/" target="_blank" rel="noreferrer">
+   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+      <img  alt="AWS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+ <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
 
 <br> 
 
