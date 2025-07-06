@@ -45,7 +45,7 @@
       <img  alt="VSCode" height="50px" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
  </a>
    <a href="https://www.microsoft.com/en-us/software-download/windows11" target="_blank" rel="noreferrer">
-      <img  alt="MS11" height="50px" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg/>
+      <img  alt="MS11" height="50px" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg"/>
  </a>
    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img  alt="Python" height="50px" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
