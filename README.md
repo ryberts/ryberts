@@ -23,9 +23,39 @@
 <!-- https://devicon.dev/ -->
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 <div align="center">
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img  alt="JavaScript" height="50px" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  </a>
+ <a href="https://www.splunk.com/" target="_blank" rel="noreferrer">
+      <img  alt="Splunk" height="50px" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg"/>
+ </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+      <img  alt="AWS" height="50px" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
+ </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+      <img  alt="Bash" height="50px" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"/>
+ </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+      <img  alt="Linux" height="50px" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+ </a>
+  <a href="https://www.powershellgallery.com/" target="_blank" rel="noreferrer">
+      <img  alt="Powershell" height="50px" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"/>
+ </a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+      <img  alt="Ubuntu" height="50px" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"/>
+ </a>
+   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img  alt="VSCode" height="50px" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+ </a>
+   <a href="https://www.microsoft.com/en-us/software-download/windows11" target="_blank" rel="noreferrer">
+      <img  alt="MS11" height="50px" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg/>
+ </a>
+   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+      <img  alt="Python" height="50px" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+ </a>
+   <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
+      <img  alt="WordPress" height="50px" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg"/>
+ </a>
+   <a href="https://www.redhat.com" target="_blank" rel="noreferrer">
+      <img  alt="Ansible" height="50px" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg"/>
+ </a>
 
 <br> 
 
