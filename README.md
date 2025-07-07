@@ -56,14 +56,14 @@
    <a href="https://www.redhat.com" target="_blank" rel="noreferrer">
       <img  alt="Ansible" height="50px" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg"/>
  </a>
-
+</div>
 <br> 
 
 <!-- Latest YouTube Videos -->
 
 <h2 style="color: #44AEFB">🎦 YouTube Demo (Skills) Videos</h2>
 <br />
-
+ <div align="center">
  <a href="https://youtu.be/iXPxCmCVFFY" target="_blank" rel="noreferrer">
       <img  alt="1st Video" height="180px" style="padding-right:50px;" src="https://img.youtube.com/vi/iXPxCmCVFFY/hqdefault.jpg" />
  <a href="https://youtu.be/3lebjhl5vjA" target="_blank" rel="noreferrer">
@@ -72,8 +72,9 @@
       <img  alt="3rd Video" height="180px" style="padding-right:50px;" src="https://img.youtube.com/vi/aoLLTXHGktc/hqdefault.jpg" />
  <a href="https://youtu.be/6djMj00h0n4" target="_blank" rel="noreferrer">
       <img  alt="4th Video" height="180px" style="padding-right:50px;" src="https://img.youtube.com/vi/6djMj00h0n4/hqdefault.jpg" />
-<!-- Statistics -->
 
+<!-- Statistics -->
+<div align="center">
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
