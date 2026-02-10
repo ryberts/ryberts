@@ -102,7 +102,16 @@
 
 <h2 style="color: #44AEFB">🖥️ Projects</h2>
 
+<h4>
+  <a href="https://github.com/ryberts/Active-Directory-Attack-and-Defense-Lab">
+    <strong>🔗 Active Directory Attack & Defense Lab</strong>
+  </a>
+</h4>
 
+<!-- Optional: Add the rest of the descriptive text outside the <a> tag but within a surrounding container like a <div> or <p> for better accessibility practices. -->
+<p>
+  A hands-on lab simulating Kerberoasting, Pass-the-Hash, and DCSync Attacks in a Windows Active Directory environment, with real-time detection using Wazuh SIEM.
+</p>
 <h4>
   <a href="https://github.com/ryberts/advanced-network-forensics-pipeline-app-ver">
     <strong>🔗 Advanced Network Forensic Pipeline (BTL1 Aligned)</strong>
