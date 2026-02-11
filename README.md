@@ -91,7 +91,7 @@
   <img src="https://img.shields.io/badge/MyWebsite%20Portfolio-064694?style=plasticfor-the-badge&logo=googlemarketingplatform&logoColor=black" alt="MySite" width="200"/>
 
 <a href="mailto:ryanbertulfo@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Send%20Email-a7c1eb?style=plasticfor-the-badge&logo=mailbox.org&logoColor=black" alt="Email" width="125"/>
+  <img src="https://img.shields.io/badge/-Send%20Email-blue?logo=gmail" alt="Email" width="125"/>
 
 </a>
 </div>
