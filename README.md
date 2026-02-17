@@ -3,18 +3,31 @@
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    👋 Hi there! I'm Ryan, a passionate IT Operations Specialist with over 6 years of experience leading teams and securing infrastructure in high-stakes, 24/7 environments.
+👋 Hi, I’m Ryan — a Security Operations professional working in a hybrid NOC–SOC environment supporting regulated Singapore government workloads.
 
- ### 🛠️ What I'm Up To
+🔎 What I Do Professionally
 
-*   **Leading NOC/SOC Operations** for a government client, focusing on 24/7 monitoring, incident response, and compliance reporting.
-*   **Building Practical Security Guides:** Documenting my approach to cloud monitoring and detection based on my hands-on experience with AWS, Splunk, and government frameworks.
-*   **Sharpening My Skills in My Home Lab:** Running a personal security lab where I simulate threat detection with the ELK Stack and practice vulnerability management.
+ - SIEM alert triage and malware validation using Splunk, Elastic Security, and Google Chronicle
 
-### My GitHub Showcases
-*   **🔍 Detection & Response:** Practical Splunk SPL and CloudWatch queries for monitoring and threat detection.
-*   **☁️ Cloud Security Guides:** Generalized guides and templates for securing AWS environments, inspired by my work in GCC.
-*   **🏠 Home Lab Experiments:** Documented projects from my home lab, including SIEM setup and vulnerability analysis.
+ - Threat investigation and IOC validation via Trend Micro Vision One
+
+ - AWS security monitoring using Amazon CloudWatch and related services
+
+ - 24×7 operations leadership in a government environment
+
+🧪 What I Build Here
+
+This GitHub documents my hands-on security lab work, including:
+
+ - Active Directory attack simulations and SIEM detections
+
+ - Wazuh\Elastic + Sysmon telemetry pipelines
+
+ - PCAP analysis workflows using Python via Streamlit
+
+ - Cloud monitoring and detection experiments
+
+I use this space to strengthen detection engineering skills and deepen practical incident response knowledge.
   
 <br>
 
