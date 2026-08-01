@@ -136,6 +136,16 @@ I use this space to strengthen detection engineering skills and deepen practical
   Built with Python & Streamlit, designed to simulate real-world cybersecurity incident response scenarios by analyzing PCAP files for suspicious patterns, malicious activity, and security anomalies.
 </p>
 <h4>
+  <a href="https://github.com/ryberts/personal_cloud_ops_platform">
+    <strong>🔗 Personal Cloud Operations Platform</strong>
+  </a>
+</h4>
+
+<!-- Optional: Add the rest of the descriptive text outside the <a> tag but within a surrounding container like a <div> or <p> for better accessibility practices. -->
+<p>
+  A production-inspired personal cloud infrastructure built to learn, implement and document real-world cloud operations, email authentication, DNS security and website monitoring.
+</p>
+<h4>
   <a href="https://www.youtube.com/watch?v=iXPxCmCVFFY">
     <strong>🔗 Elastic ELK with Win, Ubuntu & Sysmon Set Up</strong>
   </a>
