@@ -126,6 +126,16 @@ I use this space to strengthen detection engineering skills and deepen practical
   A hands-on lab simulating Kerberoasting, Pass-the-Hash, and DCSync Attacks in a Windows Active Directory environment, with real-time detection using Wazuh SIEM.
 </p>
 <h4>
+  <a href="https://github.com/ryberts/ctem-lab">
+    <strong>🔗 Continuous Threat Exposure Management (CTEM) Lab Simulation</strong>
+  </a>
+</h4>
+
+<!-- Optional: Add the rest of the descriptive text outside the <a> tag but within a surrounding container like a <div> or <p> for better accessibility practices. -->
+<p>
+  End-to-end CTEM workflow simulation in a hybrid lab environment. Built to mirror real world exposure management in regulated enterprises.
+</p>
+<h4>
   <a href="https://github.com/ryberts/advanced-network-forensics-pipeline-app-ver">
     <strong>🔗 Advanced Network Forensic Pipeline (BTL1 Aligned)</strong>
   </a>
